@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Albert
+- 👀 I’m interested in Python Development, Robotics, and Automation
