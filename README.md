@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Albert
-- 👀 I’m interested in Python Development, Robotics, and Automation
+![](./profile-3d-contrib/profile-green-animate.svg)
